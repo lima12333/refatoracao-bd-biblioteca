@@ -18,7 +18,7 @@ A tabela Emprestimos repetia nome do autor, editora e ISBN a cada retirada e nao
 
 ## Integrantes
 - Lucas Lima Rodrigues Santos
-- [Nome do integrante 2]
+- Iago Mikael Rodrigues
 
 ## Ferramentas
 Trello, GitHub, Git e MySQL.
